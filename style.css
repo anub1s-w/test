@@ -1,0 +1,12 @@
+.block20 div{
+    width:250px;
+    height:250px;
+    margin:20px;
+    border: 2px solid red;
+}
+
+.block20{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
